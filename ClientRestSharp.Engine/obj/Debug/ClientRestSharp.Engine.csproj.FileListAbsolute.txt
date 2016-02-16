@@ -1,0 +1,7 @@
+c:\users\satnami\documents\visual studio 2013\Projects\ClientRestSharp\ClientRestSharp.Engine\Build\ClientRestSharp.Engine.dll
+c:\users\satnami\documents\visual studio 2013\Projects\ClientRestSharp\ClientRestSharp.Engine\Build\ClientRestSharp.Engine.pdb
+c:\users\satnami\documents\visual studio 2013\Projects\ClientRestSharp\ClientRestSharp.Engine\obj\Debug\ClientRestSharp.Engine.csprojResolveAssemblyReference.cache
+c:\users\satnami\documents\visual studio 2013\Projects\ClientRestSharp\ClientRestSharp.Engine\obj\Debug\ClientRestSharp.Engine.dll
+c:\users\satnami\documents\visual studio 2013\Projects\ClientRestSharp\ClientRestSharp.Engine\obj\Debug\ClientRestSharp.Engine.pdb
+c:\users\satnami\documents\visual studio 2013\Projects\ClientRestSharp\ClientRestSharp.Engine\Build\RestSharp.dll
+c:\users\satnami\documents\visual studio 2013\Projects\ClientRestSharp\ClientRestSharp.Engine\Build\RestSharp.xml

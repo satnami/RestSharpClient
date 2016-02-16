@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientRestSharp.Engine", "ClientRestSharp.Engine\ClientRestSharp.Engine.csproj", "{DBDA93D9-8B92-48B6-89FE-618C038C3367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientRestSharp.Console", "ClientRestSharp.Console\ClientRestSharp.Console.csproj", "{9FB2E6B2-0F7C-4C8D-AEC8-3F48ECFFA1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDA93D9-8B92-48B6-89FE-618C038C3367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDA93D9-8B92-48B6-89FE-618C038C3367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDA93D9-8B92-48B6-89FE-618C038C3367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDA93D9-8B92-48B6-89FE-618C038C3367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB2E6B2-0F7C-4C8D-AEC8-3F48ECFFA1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB2E6B2-0F7C-4C8D-AEC8-3F48ECFFA1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB2E6B2-0F7C-4C8D-AEC8-3F48ECFFA1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB2E6B2-0F7C-4C8D-AEC8-3F48ECFFA1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
